@@ -6,15 +6,15 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </div>
 
-> 🎓 BTech Data Science Student | 📊 Data Analyst | 🚀 ML Enthusiast
+> 🎓 BTech Data Science Student | 📊 Data Science | 🚀 ML Enthusiast
 
 ---
 
 ## 🎯 About Me
-I'm passionate about turning data into insights. Currently building projects in **Data Analysis** and **Machine Learning** while pursuing an internship as a **Data Analyst**.
+I'm passionate about turning data into insights. Currently building projects in **Data Science** and **Machine Learning** .
 
 🔥 **Obsessed with:** Python | Data Visualization | ML Models  
-🎯 **Goal:** Crack a Data Analyst internship & build amazing projects  
+🎯 **Goal:** Crack a Data Science internship & build amazing projects  
 ⚡ **Fun fact:** Built my first ML model that predicts sports outcomes!
 
 ---
