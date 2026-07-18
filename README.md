@@ -58,11 +58,11 @@ Built an ML model that predicts World Cup match outcomes.
 
 ### 📊 Customer Analytics Pipeline
 Built an end-to-end machine learning pipeline for customer analytics, including data preprocessing, feature engineering, exploratory data analysis, customer segmentation, and predictive modeling.
-Model: Random Forest Classifier
-Metrics: Accuracy, Precision, Recall, F1-Score
-Features: Data Cleaning, Feature Engineering, Model Evaluation
-Tools: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-Repo: [Customer-Analytics-Pipeline](https://github.com/satwikdevarapally-SR/Customer-Analytics-Pipeline)
+- **Model:** Random Forest Classifier
+- **Metrics:** Accuracy, Precision, Recall, F1-Score
+- **Features:** Data Cleaning, Feature Engineering, Model Evaluation
+- **Tools:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- **Repo:** [Customer-Analytics-Pipeline](https://github.com/satwikdevarapally-SR/Customer-Analytics-Pipeline)
 
 ---
 
