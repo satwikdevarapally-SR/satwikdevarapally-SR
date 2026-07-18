@@ -54,13 +54,13 @@ Built an ML model that predicts World Cup match outcomes.
 - **Accuracy:** 67.65%  
 - **Model:** Random Forest Classifier
 - **Tools:** Scikit-learn, Pandas
-- **Repo:** [WC-2026-Predictor](https://github.com/satwikdevarapally-SR/WC-2026-Predictor)
+- **Repo:** [WC-2026-Predictor](https://github.com/satwikdevarapally-SR/FIFA2026-MATCH-WINNER-PREDICTION-MODEL)
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/satwik-devarapally)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your_email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satwik-reddy-devarapally/))
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:satwikdevarapally2006@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/satwikdevarapally)
 
 ---
